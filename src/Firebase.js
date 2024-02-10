@@ -2,14 +2,14 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 import { getAuth } from "firebase/auth";
 
+// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDHkg8nZm7i21RchfLkHga_OyeSzlyjDF8",
-  authDomain: "test-with-will.firebaseapp.com",
-  projectId: "test-with-will",
-  storageBucket: "test-with-will.appspot.com",
-  messagingSenderId: "80056434313",
-  appId: "1:80056434313:web:504062ee588d19fc055058",
-  measurementId: "G-LKJ2GN7JS9"
+  apiKey: "AIzaSyDV_4MUzqS7Ax9wrj1o55iEYJqfl_mFmhM",
+  authDomain: "dbluca-41333.firebaseapp.com",
+  projectId: "dbluca-41333",
+  storageBucket: "dbluca-41333.appspot.com",
+  messagingSenderId: "523225576774",
+  appId: "1:523225576774:web:2c12a8822ff8ec25c32147"
 };
 
 // Initialize Firebase
