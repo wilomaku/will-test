@@ -6,6 +6,7 @@ import { getAuth } from "firebase/auth";
 const firebaseConfig = {
   apiKey: "AIzaSyDV_4MUzqS7Ax9wrj1o55iEYJqfl_mFmhM",
   authDomain: "dbluca-41333.firebaseapp.com",
+  databaseURL: "https://dbluca-41333-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "dbluca-41333",
   storageBucket: "dbluca-41333.appspot.com",
   messagingSenderId: "523225576774",
