@@ -18,8 +18,6 @@ function Login() {
     }
     if (user) {
       navigate("/");
-    } else {
-      alert('User not found');
     }
 
     if (error) {
